@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Shojumaru&family=UnifrakturMaguntia&display=swap');
+/* font-family: 'Shojumaru', cursive;
+font-family: 'UnifrakturMaguntia', cursive; */
+
+.Intro{
+    font-family: 'UnifrakturMaguntia', cursive;
+    text-align: center;
+
+}
+
+.intro1{
+    animation: fadein 2s;
+}
+.intro2{
+    animation: fadein 4s;
+}
+.intro3{
+    animation: fadein 6s;
+}
+
+.intro4{
+    font-size: 40px;;
+    animation: fadein 10s;
+}
+
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+

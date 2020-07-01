@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Shojumaru&family=UnifrakturMaguntia&display=swap');
+/* font-family: 'Shojumaru', cursive;
+font-family: 'UnifrakturMaguntia', cursive; */
+
+.Civ-civ{
+    display: grid;;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align:center;
+}
+
+.Civ-ind-civ{
+    font-family: 'UnifrakturMaguntia', cursive;
+    padding: 10px;
+}
