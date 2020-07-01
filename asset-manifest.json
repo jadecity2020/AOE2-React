@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AOE2-React/static/css/main.920cd085.chunk.css",
+    "main.js": "/AOE2-React/static/js/main.c1e63b63.chunk.js",
+    "main.js.map": "/AOE2-React/static/js/main.c1e63b63.chunk.js.map",
+    "runtime-main.js": "/AOE2-React/static/js/runtime-main.0c38797b.js",
+    "runtime-main.js.map": "/AOE2-React/static/js/runtime-main.0c38797b.js.map",
+    "static/js/2.c0ecfc1d.chunk.js": "/AOE2-React/static/js/2.c0ecfc1d.chunk.js",
+    "static/js/2.c0ecfc1d.chunk.js.map": "/AOE2-React/static/js/2.c0ecfc1d.chunk.js.map",
+    "index.html": "/AOE2-React/index.html",
+    "precache-manifest.44e1bb0bd6b45b6866a4c1ec74322ab9.js": "/AOE2-React/precache-manifest.44e1bb0bd6b45b6866a4c1ec74322ab9.js",
+    "service-worker.js": "/AOE2-React/service-worker.js",
+    "static/css/main.920cd085.chunk.css.map": "/AOE2-React/static/css/main.920cd085.chunk.css.map",
+    "static/js/2.c0ecfc1d.chunk.js.LICENSE.txt": "/AOE2-React/static/js/2.c0ecfc1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c38797b.js",
+    "static/js/2.c0ecfc1d.chunk.js",
+    "static/css/main.920cd085.chunk.css",
+    "static/js/main.c1e63b63.chunk.js"
+  ]
+}
